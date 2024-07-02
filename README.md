@@ -2,7 +2,7 @@
 ![Coding GIF - Coding - Discover   Share GIFs](https://github.com/Khandaker20201125010/Khandaker20201125010/assets/110191108/b5b7887c-f61b-43f0-a1da-d7d1b64297b0)
 
 ## Hi there 👋
-![AdobeStock_554468927_Preview](https://github.com/Khandaker20201125010/Khandaker20201125010/assets/110191108/c1a35898-0440-4f12-9108-4d77600c42bc)
+
 
 
 
