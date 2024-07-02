@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://i.makeagif.com/media/4-06-2018/3avdSG.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://i.makeagif.com/media/4-06-2018/3avdSG.gif)](https://media1.giphy.com/media/10zxDv7Hv5RF9C/100.webp?cid=790b76119cildqh3gimdm4cp6s1f1dbroo9txna4bkxbc3th&ep=v1_gifs_search&rid=100.webp&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&label=Profile%20views&color=0e75b6&style=flat" alt="khandaker20201125010" /> </p>
 
