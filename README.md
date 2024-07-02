@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
 <img alt="Coding" width="100%" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b7611zu9lg18oa9gisah1jnebgzdkgjy6aql8rtdoirqo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&label=Profile%20views&color=0e75b6&style=flat" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e4788ovv6xf9l8jvtrf6aqrotq7hzjphu3nbnh30wup&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h3 align="left">Connect with me:</h3>
@@ -7,7 +8,7 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en" alt="khandaker20201125010" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&label=Profile%20views&color=0e75b6&style=flat" alt="khandaker20201125010" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010" alt="khandaker20201125010" /></a> </p>
 
