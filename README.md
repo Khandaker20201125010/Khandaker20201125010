@@ -2,7 +2,7 @@
 <img alt="Coding" width="100%" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b7611zu9lg18oa9gisah1jnebgzdkgjy6aql8rtdoirqo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&label=Profile%20views&color=0e75b6&style=flat" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="450" src="https://c.tenor.com/CzdMW7wnLn8AAAAC/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/CzdMW7wnLn8AAAAC/tenor.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Email: prantokih42@gmail.com.com
 </p>
