@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
-<img alt="Coding" width="100%" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b7611zu9lg18oa9gisah1jnebgzdkgjy6aql8rtdoirqo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://drive.google.com/file/d/1RqGxhOKVwV7XwkbWbh_azfYXCPgm3Mj0/view?usp=sharing" alt="khandaker20201125010" /> </p>
+<img alt="Coding" width="100%" src="https://i.ibb.co.com/rbNkc5d/Black-and-Cyan-Light-Technology-Thanks-for-Watching-Video.gif">
+<p align="left"> <img src="https://c.tenor.com/CzdMW7wnLn8AAAAC/tenor.gif" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47kzllr34xxch2fzuhl4fn9hee3ajcsx8xt2v2us4d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h3 align="left">Connect me with email:</h3>
