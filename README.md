@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
 <img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043">
-<p align="left"> <img src="https://camo.githubusercontent.com/a726b6cb9982986b1e0bca7267d90e83047da6d00024f0cea00caa5bb1f203f0/68747470733a2f2f632e74656e6f722e636f6d2f437a644d5737776e4c6e3841414141432f74656e6f722e676966" alt="khandaker20201125010" /> </p>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<h3 align="center">A developer from Bangladesh</h3>
+<p align="center"> <img src="https://camo.githubusercontent.com/a726b6cb9982986b1e0bca7267d90e83047da6d00024f0cea00caa5bb1f203f0/68747470733a2f2f632e74656e6f722e636f6d2f437a644d5737776e4c6e3841414141432f74656e6f722e676966" alt="khandaker20201125010" /> </p>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47kzllr34xxch2fzuhl4fn9hee3ajcsx8xt2v2us4d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h3 align="left">Connect me with email:</h3>
 <p align="left"> Email: prantokih42@gmail.com.com
