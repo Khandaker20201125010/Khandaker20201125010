@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
-<img alt="Coding" width="100%" src="https://i.ibb.co.com/rbNkc5d/Black-and-Cyan-Light-Technology-Thanks-for-Watching-Video.gif">
+<img alt="Coding" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiE9BZy3SyV4Xb83a3V-e8Ywq6z1bVZlGsA&s">
 <p align="left"> <img src="https://i.ibb.co.com/rbNkc5d/Black-and-Cyan-Light-Technology-Thanks-for-Watching-Video.gif" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47kzllr34xxch2fzuhl4fn9hee3ajcsx8xt2v2us4d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
