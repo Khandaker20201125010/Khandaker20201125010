@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
-<img alt="Coding" width="100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/110191108/383311452-9d0c93aa-5171-4671-ae9b-2b0accbf13a2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241105T205630Z&X-Amz-Expires=300&X-Amz-Signature=894f5982da4809432d6ba081a7f38c172cce25a29c4730a52b25aee1895d6739&X-Amz-SignedHeaders=host
-">
+<img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/9d0c93aa-5171-4671-ae9b-2b0accbf13a2">
 <p align="left"> <img src="https://camo.githubusercontent.com/a726b6cb9982986b1e0bca7267d90e83047da6d00024f0cea00caa5bb1f203f0/68747470733a2f2f632e74656e6f722e636f6d2f437a644d5737776e4c6e3841414141432f74656e6f722e676966" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47kzllr34xxch2fzuhl4fn9hee3ajcsx8xt2v2us4d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
