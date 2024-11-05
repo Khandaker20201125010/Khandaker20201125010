@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
+<h1 align="center">Welcome to my GitHub👋</h1>
 <img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043">
 
 <h3 align="center">Feel Free to roam my GitHub</h3>
