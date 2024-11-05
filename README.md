@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandaker Istekharul Haque</h1>
-<img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/97c7a71e-2ba1-4115-a99a-e3af7625d93f
+<img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043
 ">
 <p align="left"> <img src="https://camo.githubusercontent.com/a726b6cb9982986b1e0bca7267d90e83047da6d00024f0cea00caa5bb1f203f0/68747470733a2f2f632e74656e6f722e636f6d2f437a644d5737776e4c6e3841414141432f74656e6f722e676966" alt="khandaker20201125010" /> </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
