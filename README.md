@@ -12,7 +12,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact" alt="khandaker20201125010" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandaker20201125010&" alt="khandaker20201125010" /></p>
 <p align="left"> <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge" alt="kih_pranto" /></a> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/Khandaker20201125010](https://github.com/Khandaker20201125010)
+- 👨‍💻 All of my projects are available at [https://github.com/Khandaker20201125010?tab=repositories]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kih_pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kih_pranto" height="30" width="40" /></a>
