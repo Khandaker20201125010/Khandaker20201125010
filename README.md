@@ -10,7 +10,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en" alt="khandaker20201125010" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010" alt="khandaker20201125010" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact" alt="khandaker20201125010" /></p>
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Khandaker20201125010" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="khandaker20201125010" /></p>
 <p align="left"> <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge" alt="kih_pranto" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/Khandaker20201125010?tab=repositories]
 <h3 align="left">Connect with me:</h3>
