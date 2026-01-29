@@ -105,11 +105,15 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
       </td>
     </tr>
     <tr>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
-</a>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff&date=2025" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center" style="margin-top: 30px;">
