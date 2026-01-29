@@ -1,62 +1,57 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043" width="100%" alt="Banner" />
 
-  <h1 align="center">Hi there, I'm Khandaker Istekharul Haque 👋</h1>
-  <h3 align="center">Full Stack Developer | MERN Stack Specialist | Open Source Enthusiast</h3>
+  <h1>Hi, I'm Khandaker Istekharul Haque 👋</h1>
+  <h3>Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
-  <p align="center">
-    <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
-    <a href="https://linkedin.com/in/khandaker-istekharul-haque-19815424a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:prantokih42@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <p>
+    <a href="https://twitter.com/kih_pranto">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/khandaker-istekharul-haque-19815424a">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:prantokih42@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a passionate software developer from **Bangladesh** focusing on building scalable web applications. I love exploring new technologies and solving real-world problems through code.
+I’m a passionate **Full Stack Developer from Bangladesh** focused on building scalable, user-centric web applications.  
+I enjoy turning complex problems into clean, efficient solutions and contributing to open-source projects.
 
-- 🌱 I’m currently learning **Advanced React Patterns & System Design**
-- 👯 I’m looking to collaborate on **Open Source MERN Stack projects**
-- 💬 Ask me about **JavaScript, C++, and Web Development**
-- 📫 How to reach me: **prantokih42@gmail.com**
+- 🌱 Currently learning **Advanced React Patterns & System Design**
+- 👯 Open to **Open Source & MERN Stack collaborations**
+- 💬 Ask me about **JavaScript, React, Node.js, C++**
+- 📫 Reach me at **prantokih42@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td width="33%" align="center">
         <h3>✈️ TravelBuddy</h3>
-        <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png" width="100%" alt="TravelBuddy" style="border-radius: 10px;" />
-        </a>
-        <br /><br />
-        <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://tripbuddy-frontend.vercel.app/">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td width="33%" align="center">
         <h3>🌊 WaveFound</h3>
-        <a href="https://digital-wallet-client-six.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608866/tcacpkm1vx-1759608866765-blob.blob.png" width="100%" alt="Wavefound" style="border-radius: 10px;" />
-        </a>
-        <br /><br />
-        <a href="https://digital-wallet-client-six.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://digital-wallet-client-six.vercel.app/">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608866/tcacpkm1vx-1759608866765-blob.blob.png" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td width="33%" align="center">
         <h3>🍲 MealMate</h3>
-        <a href="https://mealmate-beryl.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608563/eo7kgf9hk5q-1759608563279-blob.blob.png" width="100%" alt="MealMate" style="border-radius: 10px;" />
-        </a>
-        <br /><br />
-        <a href="https://mealmate-beryl.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://mealmate-beryl.vercel.app/">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608563/eo7kgf9hk5q-1759608563279-blob.blob.png" />
         </a>
       </td>
     </tr>
@@ -65,60 +60,48 @@ I am a passionate software developer from **Bangladesh** focusing on building sc
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+## 🛠 Tech Stack
+
 <div align="center">
 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,firebase" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <!-- Languages & Tools -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,figma,git,github" />
 
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+## 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khandaker20201125010&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010&theme=flat&no-frame=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&style=flat-square&color=0A66C2" />
 </div>
