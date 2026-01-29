@@ -1,23 +1,93 @@
-<h1 align="center">Welcome to my GitHub👋</h1>
-<img alt="Coding" width="100%" src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043">
-<h3 align="center">Feel Free to roam my GitHub</h3>
-<p align="center">Thanks..</p>
-<p align="center"> <img src="https://camo.githubusercontent.com/a726b6cb9982986b1e0bca7267d90e83047da6d00024f0cea00caa5bb1f203f0/68747470733a2f2f632e74656e6f722e636f6d2f437a644d5737776e4c6e3841414141432f74656e6f722e676966" alt="khandaker20201125010" /> </p>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47kzllr34xxch2fzuhl4fn9hee3ajcsx8xt2v2us4d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<h3 align="left">Connect me with email:</h3>
-<p align="left"> Email: prantokih42@gmail.com.com
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en" alt="khandaker20201125010" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010" alt="khandaker20201125010" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact" alt="khandaker20201125010" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="khandaker20201125010" /></p>
-<p align="left"> <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge" alt="kih_pranto" /></a> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/Khandaker20201125010?tab=repositories]
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kih_pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kih_pranto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khandaker-istekharul-haque-19815424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khandaker-istekharul-haque-19815424a" height="30" width="40" /></a>
-<a href="https://fb.com/khandaker009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khandaker009" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043" width="100%" alt="Banner" />
+
+  <h1 align="center">Hi there, I'm Khandaker Istekharul Haque 👋</h1>
+  <h3 align="center">Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+
+  <p align="center">
+    <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge&color=1DA1F2" alt="kih_pranto" /></a>
+    <a href="https://linkedin.com/in/khandaker-istekharul-haque-19815424a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:prantokih42@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a passionate developer from **Bangladesh** focusing on building scalable web applications. I love exploring new technologies and solving real-world problems through code.
+
+- 🔭 I’m recently top worked  
+- **TravelBuddy**
+- Live Url-https://tripbuddy-frontend.vercel.app/
+- https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png
+- **Wavefound**
+- Live Url -https://digital-wallet-client-six.vercel.app/
+- https://res.cloudinary.com/dokahbak5/image/upload/v1759608866/tcacpkm1vx-1759608866765-blob.blob.png
+- **MealMate**
+- Live URL -https://mealmate-beryl.vercel.app/
+- https://res.cloudinary.com/dokahbak5/image/upload/v1759608563/eo7kgf9hk5q-1759608563279-blob.blob.png
+- 🌱 I’m currently learning **Advanced React Patterns & System Design**
+- 👯 I’m looking to collaborate on **Open Source MERN Stack projects**
+- 💬 Ask me about **JavaScript, C++, and Web Development**
+- 📫 How to reach me: **prantokih42@gmail.com**
+
+---
+
+<h3 align="center">🛠 Languages and Tools</h3>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&style=flat-square&color=blue" alt="Profile Views" />
+</div>
