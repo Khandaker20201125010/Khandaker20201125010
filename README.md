@@ -108,5 +108,12 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 
 <div align="center">
   <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&margin-w=15" alt="khandaker20201125010" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
   <img src="https://komarev.com/ghpvc/?username=Khandaker20201125010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
