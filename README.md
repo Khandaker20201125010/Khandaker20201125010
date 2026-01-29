@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/6ce8bf94-a20b-4fa0-8f59-6e74163fd043" width="100%" alt="Banner" />
 
   <h1 align="center">Hi there, I'm Khandaker Istekharul Haque 👋</h1>
-  <h3 align="center">Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+  <h3 align="center">Full Stack Developer | MERN Stack Specialist | Open Source Enthusiast</h3>
 
   <p align="center">
-    <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge&color=1DA1F2" alt="kih_pranto" /></a>
+    <a href="https://twitter.com/kih_pranto" target="blank"><img src="https://img.shields.io/twitter/follow/kih_pranto?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
     <a href="https://linkedin.com/in/khandaker-istekharul-haque-19815424a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:prantokih42@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
@@ -15,22 +15,53 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate developer from **Bangladesh** focusing on building scalable web applications. I love exploring new technologies and solving real-world problems through code.
+I am a passionate software developer from **Bangladesh** focusing on building scalable web applications. I love exploring new technologies and solving real-world problems through code.
 
-- 🔭 I’m recently top worked  
-- **TravelBuddy**
-- Live Url-https://tripbuddy-frontend.vercel.app/
-- https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png
-- **Wavefound**
-- Live Url -https://digital-wallet-client-six.vercel.app/
-- https://res.cloudinary.com/dokahbak5/image/upload/v1759608866/tcacpkm1vx-1759608866765-blob.blob.png
-- **MealMate**
-- Live URL -https://mealmate-beryl.vercel.app/
-- https://res.cloudinary.com/dokahbak5/image/upload/v1759608563/eo7kgf9hk5q-1759608563279-blob.blob.png
 - 🌱 I’m currently learning **Advanced React Patterns & System Design**
 - 👯 I’m looking to collaborate on **Open Source MERN Stack projects**
 - 💬 Ask me about **JavaScript, C++, and Web Development**
 - 📫 How to reach me: **prantokih42@gmail.com**
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>✈️ TravelBuddy</h3>
+        <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png" width="100%" alt="TravelBuddy" style="border-radius: 10px;" />
+        </a>
+        <br /><br />
+        <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌊 WaveFound</h3>
+        <a href="https://digital-wallet-client-six.vercel.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608866/tcacpkm1vx-1759608866765-blob.blob.png" width="100%" alt="Wavefound" style="border-radius: 10px;" />
+        </a>
+        <br /><br />
+        <a href="https://digital-wallet-client-six.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🍲 MealMate</h3>
+        <a href="https://mealmate-beryl.vercel.app/" target="_blank">
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1759608563/eo7kgf9hk5q-1759608563279-blob.blob.png" width="100%" alt="MealMate" style="border-radius: 10px;" />
+        </a>
+        <br /><br />
+        <a href="https://mealmate-beryl.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
