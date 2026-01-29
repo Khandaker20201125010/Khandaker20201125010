@@ -95,30 +95,23 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight"
-    height="170"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
-<br />
-
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Khandaker20201125010&theme=tokyonight"
-  />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
 </div>
 
-<br />
-
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true"
-  />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 
