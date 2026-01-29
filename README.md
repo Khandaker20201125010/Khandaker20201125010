@@ -95,24 +95,26 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <div style="margin-top: 10px;">
-    <img src="https://streak-stats.demolab.com?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<div align="center">
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
