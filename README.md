@@ -96,22 +96,22 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub Stats" />
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en" alt="khandaker20201125010" /></p>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top Languages" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact" alt="khandaker20201125010" /></p>
   </a>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="khandaker20201125010" /></p>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandaker20201125010" alt="khandaker20201125010" /></a></p>
 </div>
 
 
