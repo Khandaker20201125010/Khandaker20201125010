@@ -102,10 +102,8 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="Streak" />
   <br /><br />
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=onedark&no-frame=true&column=7"
-    alt="GitHub Trophies"
-  />
+ <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=onedark&no-frame=true&row=1" />
+
  </a>
 
 </div>
