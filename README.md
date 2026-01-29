@@ -99,7 +99,7 @@ I am a passionate software developer from **Bangladesh** focusing on building sc
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=khandaker20201125010&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khandaker20201125010&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
