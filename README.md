@@ -96,10 +96,10 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+   <p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" /></p>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+   <p> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" /></p>
   </a>
 </div>
 
@@ -111,7 +111,7 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <div align="center">
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+   <p> <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" /></p>
   </a>
 </div>
 
