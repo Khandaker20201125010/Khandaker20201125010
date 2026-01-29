@@ -95,34 +95,29 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff&date=2025" alt="GitHub Streak" />
-      </td>
-    </tr>
   </table>
+  
+  <div style="margin-top: 10px;">
+    <img src="https://streak-stats.demolab.com?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
+  </div>
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khandaker20201125010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Khandaker20201125010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <p>⭐️ Open to collaborations and exciting opportunities</p>
 </div>
