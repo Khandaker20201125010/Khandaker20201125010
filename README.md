@@ -105,9 +105,7 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 
 <div align="center">
   <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
-  </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="khandaker20201125010" /></p>
 </div>
 
 <div align="center">
