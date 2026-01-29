@@ -36,10 +36,13 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <h3 align="center">🛠 Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,typescript,javascript,html,css" alt="Frontend" />
+ <h4>Frontend</h4> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,typescript,javascript,html,css" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,graphql,firebase" alt="Backend" />
+ <h4 >Backend</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,graphql,firebase" />
   <br /><br />
+  <h4>Tools & Others</h4>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,java,cpp,php" alt="Tools" />
 </div>
 
