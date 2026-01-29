@@ -105,9 +105,9 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
-      </td>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&fire=ff6d00&ring=58a6ff" alt="GitHub Streak" />
+</a>
     </tr>
   </table>
 </div>
