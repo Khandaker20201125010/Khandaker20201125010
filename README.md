@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
         <h3>✈️ TravelBuddy</h3>
         <p>Travel planning platform with itinerary management</p>
         <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1769687302/Gemini_Generated_Image_9s6e5j9s6e5j9s6e_z0mjx6.png" width="100%" alt="TravelBuddy" style="border-radius: 8px; border: 1px solid #444;" />
+          <img src="https://res.cloudinary.com/dokahbak5/image/upload/v1769689213/8b0125c7-07c0-4b5b-8558-1ee7317e387b_nlxflu.png" width="100%" alt="TravelBuddy" style="border-radius: 8px; border: 1px solid #444;" />
         </a>
         <br /><br />
         <a href="https://tripbuddy-frontend.vercel.app/" target="_blank">
