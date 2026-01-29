@@ -95,25 +95,32 @@ I'm a passionate **Full Stack Developer** from Bangladesh with expertise in buil
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-
-   <p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" /></p>
-
- 
-   <p> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" /></p>
- 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Khandaker20201125010&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khandaker20201125010&layout=compact&theme=tokyonight"
+    height="170"
+  />
 </div>
+
+<br />
 
 <div align="center">
-  <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khandaker20201125010" alt="khandaker20201125010" /></p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Khandaker20201125010&theme=tokyonight"
+  />
 </div>
+
+<br />
 
 <div align="center">
-  <br />
-
-   <p> <img src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" /></p>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Khandaker20201125010&theme=darkhub&no-frame=true"
+  />
 </div>
+
 
 ---
 
